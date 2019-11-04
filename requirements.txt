@@ -1,0 +1,12 @@
+python-telegram-bot==12.0.0b1
+pySmartDL
+PyDrive
+wget
+requests
+pymongo
+dnspython
+pyopenload
+urllib3
+requests
+URLObject>=2.1.1
+pycrypto>=2.6
