@@ -6,7 +6,7 @@
 
 ### Inspired By Sumanjay  Bot :D [Google Drive Uploader](https://telegram.dog/driveuploadbot)
 
-Here Is Live Version Of Bot  [Gdriveupme_bot]([https://link](http://telegram.dog/gdriveupme_bot))
+Here Is Live Version Of Bot  [Gdriveupme_bot](https://link](http://telegram.dog/gdriveupme_bot)
 
 
 
