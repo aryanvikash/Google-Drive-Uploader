@@ -10,3 +10,4 @@ urllib3
 requests
 URLObject>=2.1.1
 pycrypto>=2.6
+httplib==0.15.0
