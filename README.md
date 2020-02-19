@@ -44,7 +44,7 @@ python3 bot.py
  - Dropbox Link
 
 ## Requirements
-  - [Google Drive api Credential] (https://console.cloud.google.com/apis/credentials) (Others type)  `Required`
+  - [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (Others type)  `Required`
   - Telegram Bot Token (Using BotFather)  `Required`
   - Openload ftp login and Key  `optional`
   - Mega Email and Password  `Optional`
