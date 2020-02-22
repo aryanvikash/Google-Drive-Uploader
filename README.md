@@ -21,8 +21,10 @@ Here Is Live Version Of Bot  [Gdriveupme_bot](http://telegram.dog/gdriveupme_bot
  It Can Upload Your Direct and Supported links into Google Drive.
 
  ```
-
-
+### Install Module 
+```
+  sudo pip3 install -r requirements.txt
+```
 ### Run This bot
 ```
 python3 bot.py
