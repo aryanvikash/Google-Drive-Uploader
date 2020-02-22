@@ -55,7 +55,7 @@ python3 bot.py
 
 ## Setup Your Own Bot
 ```
-1. Create Your  [Google Drive api Credential] (https://console.cloud.google.com/apis/credentials) (other type) and Download  Its json
+1. Create Your  [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (other type) and Download  Its json
 
 2. Paste it In Bot Root Directroy  and Rename it "client_secrets.json"
 
