@@ -10,6 +10,18 @@ Here Is Live Version Of Bot  [Gdriveupme_bot](http://telegram.dog/gdriveupme_bot
 
 
 
+# Update (30 May 2020)
+
+- Teamdrive Support added 
+
+
+`Teamdrive is not for users You have to hardcode it ,`
+`Wait for V2 bot This Bot don't have active development I will add User Specfic Teamdrive option`
+
+# How can You Add Teamdrive
+-  Replace `TEAMDRIVE_FOLDER_ID` and `TEAMDRIVE_ID` in [creds.py](./creds.py) 
+
+
 ### What Is this ?
  ```
    A Telegram Bot Written In Python 
@@ -42,7 +54,7 @@ python3 bot.py
 ## Supported Links : 
  - Direct Link
  - Mega.nz Link
- - openload link (disabled)
+ - openload link (not avalibe anymore)
  - Dropbox Link
 
 ## Requirements
@@ -76,6 +88,7 @@ python3 bot.py
   - [CyberBoySumanjay](https://github.com/cyberboysumanjay)
   - [SpEcHiDe](https://github.com/SpEcHiDe)
   - [Atulkadian](https://github.com/atulkadian)
+
 
 
 
