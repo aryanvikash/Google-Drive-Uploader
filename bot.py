@@ -220,9 +220,9 @@ def UPLOAD(update, context):
                 except Exception as e:
                     print("error Code : UPX11", e)
                     sent_message.edit_text("Uploading fail :{}".format(e))
-
-                sent_message.edit_text(TEXT.DOWNLOAD_URL.format(
-                    FILENAME, SIZE, FILELINK), parse_mode=ParseMode.HTML)
+                else:
+                    sent_message.edit_text(TEXT.DOWNLOAD_URL.format(
+                        FILENAME, SIZE, FILELINK), parse_mode=ParseMode.HTML)
                 print(filename)
                 try:
                     os.remove(filename)
