@@ -16,9 +16,9 @@ HELP = """" <b>AUTHORISE BOT</b>
        Your Google Drive Token And 
        Send It To Bot  
 <b>You Wanna Change Your Login 
-        Account ?</b> \n
+        Account ?</b> 
         You Can Use /revoke 
-        command</b> \n         
+        command</b>  
 <b>What I Can Do With This Bot? </b>
             •You Can Upload Any Internet
             •Files On Your google
