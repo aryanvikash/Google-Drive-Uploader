@@ -1,27 +1,6 @@
 
 
 # Here is Your Drive Folder Name You can Replace it with Your Desire name(Optional)
-drive_folder_name = "GoogleDriveUploader"
-
-
-# Enter Your Mega email And Pass (Required)
-MEGA_EMAIL = "bearyan8@yandex.com"
-MEGA_PASSWORD = "bearyan8@yandex.com"
-
-
-START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Visit Our Official Channel \n  @HindiXstream  \n\n For Cracked Apps Join  \n <a href ='https://t.me/XDAPremium_apk'>Join Channel</a>\
-
-HELP = """   <b>AUTHORISE BOT</b> 
-       Use  /auth Command Generate
-       Your Google Drive
-       Token And 
-       Send It To Bot  \n
-       
-<b>    You Wanna Change Your Login 
-        Account ?</b> \n
-
-
-# Here is Your Drive Folder Name You can Replace it with Your Desire name(Optional)
 drive_folder_name = "GDriveUploaderBot"
 
 
@@ -44,7 +23,7 @@ HELP = """   <b>AUTHORISE BOT</b>
             •You Can Upload Any Internet
             •Files On Your google
             Drive Account.
-<b> Links Supported By Bot</b>
+<b>Links Supported By Bot</b>
             * Direct Links 
             * Openload links [Max Speed 
               500 KBps :(   ]
