@@ -36,11 +36,11 @@ HELP = """   <b>AUTHORISE BOT</b>
        Use  /auth Command Generate
        Your Google Drive Token And 
        Send It To Bot  
-<b>  You Wanna Change Your Login 
+<b>You Wanna Change Your Login 
         Account ?</b> \n
         You Can Use /revoke 
-        command   \n         
-<b>  What I Can Do With This Bot? </b>
+        command</b> \n         
+<b>What I Can Do With This Bot? </b>
             •You Can Upload Any Internet
             •Files On Your google
             Drive Account.
