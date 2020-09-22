@@ -9,7 +9,7 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = " Hi {}  \n I am GDrive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Updates  \n <a href ='https://t.me/HindiXstream'>Join Channel</a>\nPlease Report Bugs  @kamlesh_kirodewal"
+START = " Hi {}  \n I am GDrive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Updates  \n <a href ='https://t.me/HindiXstream'>Join Channel</a>\nPlease Report Bugs  @kamlesh_kirodewal \n use https://hindixstream.tgdrives.workers.dev/ Index  
 
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
