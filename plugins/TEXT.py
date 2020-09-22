@@ -11,19 +11,19 @@ MEGA_PASSWORD = "bearyan8@yandex.com"
 
 START = " Hi {}  \n I am GDrive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Updates  \n <a href ='https://t.me/HindiXstream'>Join Channel</a>\nPlease Report Bugs  @kamlesh_kirodewal"
 
-HELP = """" <b>AUTHORISE BOT</b> 
+HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
        Your Google Drive Token And 
        Send It To Bot  
-<b>You Wanna Change Your Login 
-        Account ?</b> 
+<b> You Wanna Change Your Login 
+        Account ?</b> \n
         You Can Use /revoke 
-        command</b>  
+        command            
 <b>What I Can Do With This Bot? </b>
-            •You Can Upload Any Internet
-            •Files On Your google
+            You Can Upload Any Internet
+            Files On Your google
             Drive Account.
-<b>Links Supported By Bot</b>
+<b> Links Supported By Bot</b>
             * Direct Links 
             * Openload links [Max Speed 
               500 KBps :(   ]
@@ -32,8 +32,8 @@ HELP = """" <b>AUTHORISE BOT</b>
             
             + More On Its way:)
                 
-Bug Report @kamlesh_kirodewal """"
-        
+Bug Report @kamlesh_kirodewal
+        """
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
 PROCESSING = "Processing Your Request ...!!"
