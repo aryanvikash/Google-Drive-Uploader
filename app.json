@@ -1,0 +1,17 @@
+{
+          "name": "GDrive Uploader Bot",
+          "description": "Gdrive Uploader bot for Telegram. Upload Files via direct link to Google Drive",
+          "repository": "https://github.com/TeamUserByte/Google-Drive-Uploader",
+          "logo": "https://telegra.ph/file/da4d4ff71ea6b59d3694a.jpg",
+          "keywords": ["Google Drive"],
+          "env": {
+                    "BOT_TOKEN": {
+                              "description": "Get it from https://t.me/botfather"
+                    }
+          },
+          "buildpacks": [
+                    {
+                              "url": "heroku/python"
+                    }
+          ]
+}
